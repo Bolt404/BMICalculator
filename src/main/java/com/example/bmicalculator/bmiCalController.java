@@ -136,6 +136,9 @@ public class bmiCalController {
             weightInput.setText("");
             heightInput.setText("");
             ageInput.setText("");
+            bmiField.setText("");
+            classificationField.setText("");
+            bmiPrimeField.setText("");
         }
     }
     /**
