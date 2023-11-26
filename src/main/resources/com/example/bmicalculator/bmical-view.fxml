@@ -13,7 +13,7 @@
       <children>
          <Label prefHeight="26.0" prefWidth="60.0" text="Age" />
          <TextField fx:id="ageInput" focusTraversable="false" prefHeight="26.0" prefWidth="100.0" promptText="age" />
-         <Label prefHeight="26.0" prefWidth="80.0" text=" Ages: 2 - 120" />
+         <Label prefHeight="26.0" prefWidth="80.0" text=" Ages: 3+" />
       </children>
    </HBox>
    <HBox prefHeight="100.0" prefWidth="290.0">
