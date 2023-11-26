@@ -27,6 +27,7 @@ I'm by no means an expert, all the information used and outputted by the program
 
 ### Usable examples:
 Other than your own information, here is some real examples that will give realistic results.
+
 Age: 30
 Gender: Male or Female
 Height: 195
