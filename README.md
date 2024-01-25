@@ -1,5 +1,5 @@
 # BMICalculator
-
+First asignment using JavaFX, during 1st Semester.
 ## Asignment:
 
 Hand-in #2: BMI Calculator:  
